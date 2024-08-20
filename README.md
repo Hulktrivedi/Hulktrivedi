@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @Het_trivedi
 - 👀 I’m interested in Python,AI&Ml and self Driving Car
-- 🌱 I’m currently learning Python
 - 💞️ I’m looking to collaborate on Self Driving Car Projects
 - 📫 raech me here or on my instagram @hettrivedi01
 
