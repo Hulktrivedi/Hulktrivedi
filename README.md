@@ -19,10 +19,10 @@ I'm a computer programmer passionate about designing solutions that work **from 
 
 ## 🚀 Featured Projects
 
-### 🔹 [ChimeraOS](https://github.com/Hulktrivedi/chimeraos)  
+### 🔹 [ChimeraOS](https://github.com/Hulktrivedi/Chiamera_OS)  
 A modular Linux-based operating system with user-controlled sandboxing and deep security tooling.
 
-### 🔹 [Offline YouTube Music Library](https://github.com/Hulktrivedi/your-repo-name)  
+### 🔹 [JukeMate](https://github.com/Hulktrivedi/JukeMate)  
 Built to help users organize, tag, and listen to YouTube music completely offline—designed for smooth UX.
 
 ### 🔹 AI Projects  
