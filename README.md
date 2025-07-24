@@ -48,7 +48,7 @@ Emotion-driven music recommendation system that detects user mood via facial exp
 ---
 
 ## 📫 Let's Connect
-- **Email:** het.trivedi@example.com *(replace with your email)*  
+- **Email:** hettrivedi63@gmail.com
 - **GitHub:** [Hulktrivedi](https://github.com/Hulktrivedi)
 
 ---
