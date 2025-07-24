@@ -1,35 +1,56 @@
-# 👋 Hi there, I'm Het Trivedi
+# 👋 Hi, I'm Het Trivedi (aka Hulktrivedi)
 
-💻 Systems Thinker | Python Developer | AI/ML Explorer  
-📍 Based in India | Aspiring to Build the Future of Intelligent Systems  
-
----
-
-I'm a computer programmer passionate about designing solutions that work **from the ground up**—whether it's automating real-world tasks, experimenting with AI models, or architecting system-level tools like my Linux-based OS project. I’m currently working on freelance and personal projects that bridge the gap between **infrastructure, intelligence, and usability**.
-
-🔭 **Current Interests**  
-- Building a customizable Linux OS (ChimeraOS) with sandboxing and modular UI  
-- Creating offline-accessible tools like a local YouTube music library  
-- Exploring AI integration into everyday system-level tasks  
-
-🛠️ **Technologies I Use**  
-`Python` · `Bash` · `AI/ML (Basics)` · `OpenCV` · `MySQL` · `HTML` · `Linux (Ubuntu)`  
+🎓 **Computer Applications Graduate** | 🧠 **System-Level Thinker** | 🤖 **AI/ML Developer**  
+💼 Currently freelancing, building indie projects, and exploring AI-driven solutions with a focus on operating systems and automation.  
+🌍 Open to **global opportunities** (internships or roles) with **visa sponsorship**.
 
 ---
 
-## 🚀 Featured Projects
+## 🔥 Featured Projects
 
-### 🔹 [ChimeraOS](https://github.com/Hulktrivedi/Chiamera_OS)  
-A modular Linux-based operating system with user-controlled sandboxing and deep security tooling.
+### 🧬 [ChimeraOS](https://github.com/Hulktrivedi/ChimeraOS)
+A modular, security-first Linux-based OS with customizable UX layers (Windows-like, macOS-like, or pure Linux), sandboxed environments, and a unique **Doomsday Protocol (DPP)** recovery system.
 
-### 🔹 [JukeMate](https://github.com/Hulktrivedi/JukeMate)  
-Built to help users organize, tag, and listen to YouTube music completely offline—designed for smooth UX.
+### 🎵 [JukeMate](https://github.com/Hulktrivedi/JukeMate)
+An offline YouTube Music Library built using **yt-dlp**, **Tkinter**, and **FFmpeg**.  
+Designed for personal music collection management with an intuitive interface and planned mobile APK wrapper.
 
-### 🔹 AI Projects  
-From facial recognition-based attendance systems to emotion-based music players, I’ve implemented early AI use cases with real-world intent.
+### 📷 [Smart-Attendance](https://github.com/Hulktrivedi/Smart-Attendance) *(archived)*  
+AI & ML-powered automatic attendance system for **physical classrooms** and **virtual meeting platforms**. Uses **OpenCV** and **Python** to detect faces and mark attendance seamlessly.
+
+### 😄 [Emotion-Based Music Player](https://github.com/Hulktrivedi/Emotion_Based_Music_Player) *(archived)*  
+Emotion-driven music recommendation system that detects user mood via facial expressions and plays mood-matching songs. Originally built with Python 2.7 and OpenCV.
 
 ---
 
-📫 **Let’s connect**:  
-Currently open to AI-focused internships, system-level research roles, and collaborations on tech-driven tools.  
-Feel free to explore my projects or reach out: `hettrivedi63@gmail.com`
+## 💡 Skills & Interests
+
+- **Languages & Tools:** Python, Bash, Git, Tkinter, OpenCV, FFmpeg  
+- **Concepts:** AI/ML fundamentals, algorithms, system design, networking  
+- **Strengths:** Quick learner, systems-level thinker, algorithm-focused problem-solving  
+- **Interests:** OS design, automation, and creating efficient AI-based utilities
+
+---
+
+## 🌱 Current Focus
+- Strengthening expertise in **AI/ML pipelines**  
+- Exploring cross-platform music & media apps  
+- Turning indie projects (like **JukeMate**) into real-world, collaborative tools  
+- Preparing for **global internships and full-time AI roles**
+
+---
+
+## 📊 GitHub Stats
+
+![Het's GitHub stats](https://github-readme-stats.vercel.app/api?username=Hulktrivedi&show_icons=true&theme=radical)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Hulktrivedi&layout=compact&theme=radical)
+
+---
+
+## 📫 Let's Connect
+- **Email:** het.trivedi@example.com *(replace with your email)*  
+- **GitHub:** [Hulktrivedi](https://github.com/Hulktrivedi)
+
+---
+
+> _“Curiosity and persistence are my fuel. Every project I build is a small step toward making technology more human-centric.”_
